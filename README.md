@@ -1,4 +1,4 @@
 joomla
 ======
 
-Joomla installation repository 
+joomla
